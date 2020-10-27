@@ -6,6 +6,7 @@ esx_inventoryhud with logs for open inventories and preventing modders to open i
 ## Requirements
 * [es_extended](https://github.com/ESX-Org/es_extended)
 * [pNotify](https://forum.fivem.net/t/release-pnotify-in-game-js-notifications-using-noty/20659)
+* [EasyAdmin](https://github.com/Blumlaut/EasyAdmin)
 
 ## https://discord.gg/jsARZZQ For More Scripts Like This
 
